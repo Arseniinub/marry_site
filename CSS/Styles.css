@@ -1,15 +1,15 @@
 @font-face {
 	font-family:'Myfon';
-	src: url('/marry_site/CSS/fonts/kudry_weird-headline.eot');
-	src: local('k'), url('/marry_site/CSS/fonts/kudry_weird-headline.woff') format('woff'), url('/marry_site/CSS/fonts/kudry_weird-headline.svg') format('truetype'), url('/marry_site/CSS/fonts/kudry_weird-headline.svg') format('svg');
+	src: url('/CSS/fonts/kudry_weird-headline.eot');
+	src: local('k'), url('/CSS/fonts/kudry_weird-headline.woff') format('woff'), url('/CSS/fonts/kudry_weird-headline.svg') format('truetype'), url('/CSS/fonts/kudry_weird-headline.svg') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 @font-face {
 	font-family:'Myfon1';
-	src: url('/marry_site/CSS/fonts/STKaiti.ttf');
-	src: local('k'), url('/marry_site/CSS/fonts/STKaiti.ttf') format('woff'), url('/marry_site/CSS/fonts/STKaiti.ttf') format('truetype'), url('/marry_site/CSS/fonts/STKaiti.ttf') format('svg');
+	src: url('/CSS/fonts/STKaiti.ttf');
+	src: local('k'), url('/CSS/fonts/STKaiti.ttf') format('woff'), url('/CSS/fonts/STKaiti.ttf') format('truetype'), url('/CSS/fonts/STKaiti.ttf') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -92,7 +92,7 @@ font-family: 'Myfon';}
 }
 .date_marrin_main span{font-size: 9vw;}
 .bg-image1 {position: relative;
-  background-image: url('/marry_site/assets/IMG_2533.JPG'); /* Замените на путь к вашему изображению */
+  background-image: url('/assets/IMG_2533.JPG'); /* Замените на путь к вашему изображению */
   background-size: cover; /* Картинка масштабируется, сохраняя пропорции */
   background-position: center; /* Центрирование изображения */
   background-repeat: no-repeat; /* Картинка не повторяется */
@@ -148,10 +148,8 @@ cursor: pointer;}
   position: absolute;
   left:19%;
   top:80%;
-  z-index: 100;
- 
+ z-index: 100;
 }
-
 .play-text-ring img{  position: relative;
 z-index: 200;}
 
@@ -227,7 +225,7 @@ width:100%}
 #container_monblan{ position: relative; /* Устанавливаем контейнер как родительский элемент */
   width:auto; /* Ширина контейнера */
   height:35vh; /* Высота контейнера */
-  background-image: url('/marry_site/assets/hends-removebg-preview.png');
+  background-image: url('/assets/hends-removebg-preview.png');
   margin-left: -5%;
 margin-right: -5%;
  
