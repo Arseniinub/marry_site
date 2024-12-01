@@ -231,7 +231,7 @@ width:100%}
 #container_monblan{ position: relative; /* Устанавливаем контейнер как родительский элемент */
   width:auto; /* Ширина контейнера */
   height:35vh; /* Высота контейнера */
-  background-image: url('/assets/hends-removebg-preview.png');
+  background-image: url('/marry_site/assets/hends-removebg-preview.png');
   margin-left: -5%;
 margin-right: -5%;
  
