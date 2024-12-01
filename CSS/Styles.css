@@ -92,7 +92,7 @@ font-family: 'Myfon';}
 }
 .date_marrin_main span{font-size: 9vw;}
 .bg-image1 {position: relative;
-  background-image: url('/assets/IMG_2533.JPG'); /* Замените на путь к вашему изображению */
+  background-image: url('./assets/IMG_2533.JPG'); /* Замените на путь к вашему изображению */
   background-size: cover; /* Картинка масштабируется, сохраняя пропорции */
   background-position: center; /* Центрирование изображения */
   background-repeat: no-repeat; /* Картинка не повторяется */
