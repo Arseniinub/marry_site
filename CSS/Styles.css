@@ -119,11 +119,11 @@ transform:translate(-10%,-60%);
 
 .play-container {
 position: absolute;
-left:20%;
+left:19.5%;
 top:80%;
 background: none;
 transform: translate(-50%,-50%);
-
+z-index: 1000;
 }
 
 
