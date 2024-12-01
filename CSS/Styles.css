@@ -142,12 +142,12 @@ cursor: pointer;}
    /* Позиционируем немного выше кнопки */
 
   transform: translate(-50%,-50%);
-  width: 10px; /* Диаметр кольца */
-  height: 10px; /* Диаметр кольца */
+  width: 150px; /* Диаметр кольца */
+  height: 150px; /* Диаметр кольца */
   border-radius: 10%; /* Делаем круг */
   position: absolute;
   left:19%;
-  top:73%;
+  top:80%;
  
 }
 
